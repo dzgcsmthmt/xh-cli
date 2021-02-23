@@ -1,0 +1,19 @@
+{
+  "name": "xh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "xh": "bin/index.js"
+  },
+  "scripts": {
+    "create": "node ./packages/create-react-app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0"
+  }
+}
